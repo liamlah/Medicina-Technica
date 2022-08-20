@@ -5,12 +5,18 @@
 
 
 The current list of prioritised sites are:
+* https://www.radiopaedia.org/ - Radiology wiki
+* https://www.teachmeobgyn.com/ - Student Resources
+* https://www.teachmeanatomy.info/ - Student resources
+* https://www.teachmesurgery.com/ - Student resources
+* https://www.zerotofinals.com/ - Student resources
+* https://www.kemh.health.wa.gov.au/ - O&G guidelines
 * https://www.tg.org.au/ - Therapeutic guidelines
-* https://tgldcdp.tg.org.au/  
+* https://tgldcdp.tg.org.au/ -Therapeutic guidelines institutional link
 * https://www.wikidoc.org/index.php/
 * https://www.cochranelibrary.com/
 * https://www.ncbi.nlm.nih.gov - Includes Statpearls
-* https://litfl.com 
+* https://litfl.com - Student resources
 * https://amboss.com - Student resources
 * https://osmosis.org - Student resources
 * https://uptodate.com
@@ -21,6 +27,7 @@ The Current list of excluded sites are:
 * https://www.mayoclinic.org/
 * https://www.healthline.com/
 * https://www.webmd.com/
+* https://www.medicalnewstoday.com/
 
 **If you would like to suggest additional sites to be added to either list, or have any other feedback, submit them in the [issues](https://github.com/liamlah/Medicina-Technica/issues) section.**
 
