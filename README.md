@@ -1,7 +1,7 @@
 # Medicina-Technica
 **Custom medicine search engine**
 
-[liamjones.science](http://liamjones.science/search_gcse/#gsc.tab=0) hosts a custom search engine for medical topics designed to exclude result directed at lay audiences, and prioritise results directed at **medical professionals and students**. It uses Google's [Programmable Search Engine](https://programmablesearchengine.google.com/about/) to prioritise specific professional and student oriented resources. *For convenience, I suggest using an adblocker on your browser, as sponsored results defeat the purpose of the search engine.*
+[MedicinaTechnica](http://medicinatechnica.net/search_gcse/#gsc.tab=0) hosts a custom search engine for medical topics designed to exclude result directed at lay audiences, and prioritise results directed at **medical professionals and students**. It uses Google's [Programmable Search Engine](https://programmablesearchengine.google.com/about/) to prioritise specific professional and student oriented resources. *For convenience, I suggest using an adblocker on your browser, as sponsored results defeat the purpose of the search engine.*
 
 
 The current list of prioritised sites are:
